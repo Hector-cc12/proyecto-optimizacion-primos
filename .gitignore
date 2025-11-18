@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ============================================
+# Específico para proyecto-optimizacion-primos
+# ============================================
+
+# Archivos de profiling generados (opcional - si NO quieres subirlos)
+# profiling_*.txt
+
+# Gráficos generados (opcional - si NO quieres subirlos)
+# comparacion_optimizacion.png
+
+# Archivos temporales de prueba
+test_*.py
+prueba_*.py
+
+# Resultados de ejecución
+resultados/
+output/
+
+# Archivos de datos grandes
+*.csv
+*.dat
+
+# Notebooks de Jupyter (si los usas)
+*.ipynb_checkpoints/
