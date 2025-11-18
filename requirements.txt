@@ -11,34 +11,7 @@ numpy>=1.20.0,<2.0.0
 # Visualización de datos
 matplotlib>=3.3.0,<4.0.0
 
-# ============================================
-# Dependencias opcionales (descomentar si es necesario)
-# ============================================
-
-# Análisis de datos (si desea ampliar el proyecto)
-# pandas>=1.2.0,<3.0.0
-
-# Visualización estadística (para gráficos mejorados)
-# seaborn>=0.11.0,<1.0.0
-
-# Perfilado de rendimiento (alternativa a cProfile)
-# memory-profiler>=0.60.0
-
-# Barras de progreso (para cálculos largos)
-# tqdm>=4.65.0
-
-# ============================================
-# Dependencias de desarrollo (opcional)
-# ============================================
-
-# Formato de código
-# black>=23.0.0
-# autopep8>=2.0.0
-
-# Linting
-# pylint>=2.17.0
-# flake8>=6.0.0
-
-# Pruebas
-# pytest>=7.0.0
-# pytest-cov>=4.0.0
+# Opcional: Para un mejor análisis del rendimiento
+# Descomenta si es necesario:
+# pandas>=1.2.0
+# seaborn>=0.11.0
