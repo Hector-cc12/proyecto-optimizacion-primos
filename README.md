@@ -112,7 +112,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 👤 Autor
 
-**Hector Ccl**
+**Hector**
 
 - 💼 GitHub: [@Hector-ccl2](https://github.com/Hector-ccl2)
 - 📧 Email: [tu-email@ejemplo.com]
