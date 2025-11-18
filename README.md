@@ -27,7 +27,7 @@ Este proyecto implementa y compara **tres enfoques diferentes** para encontrar n
 - ✅ Visualizar resultados con Matplotlib
 - ✅ Documentar el proceso completo
 
-## 📁 Estructura del Proyecto
+## 🗃️ Estructura del Proyecto
 
 ```
 proyecto-optimizacion-primos/
@@ -115,7 +115,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **Hector**
 
 - 💼 GitHub: [@Hector-ccl2](https://github.com/Hector-ccl2)
-- 📧 Email: [tu-email@ejemplo.com]
+- 📩 Email: [tu-email@ejemplo.com]
 - 🎓 Proyecto Educativo - 2025
 
 
