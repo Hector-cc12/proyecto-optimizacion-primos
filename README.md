@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style](https://img.shields.io/badge/code%20style-PEP8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
-# 🚀 Optimización de Código Python: Búsqueda de Números Primos
+# Optimización de Código Python: Búsqueda de Números Primos
 
 Proyecto de análisis y optimización de algoritmos para la búsqueda de números primos, demostrando técnicas de mejora de rendimiento en Python.
 
