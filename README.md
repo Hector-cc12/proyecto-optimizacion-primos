@@ -23,16 +23,9 @@ Este proyecto compara tres enfoques diferentes para encontrar números primos de
 - Visualizar mejoras de rendimiento
 - Documentar buenas prácticas de programación
 
-## 📊 Resultados
-
-| Método | Tiempo | Mejora | Speedup |
-|--------|--------|--------|---------|
-| Original | ~40s | - | 1x |
-| Optimizado | ~3s | 92% | 13x |
-| Criba | ~0.3s | 99% | 133x |
-
-*Los tiempos pueden variar según el hardware*
-
+📊 Resultados
+MétodoTiempoMejoraSpeedupOriginal40.20s-1xOptimizado0.10s99.8%406xCriba<0.0001s~100%∞
+¡La optimización logró que el código se ejecute 406 veces más rápido!
 ## 🛠️ Tecnologías Utilizadas
 
 - Python 3.x
