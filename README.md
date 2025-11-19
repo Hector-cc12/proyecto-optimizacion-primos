@@ -23,9 +23,16 @@ Este proyecto compara tres enfoques diferentes para encontrar números primos de
 - Visualizar mejoras de rendimiento
 - Documentar buenas prácticas de programación
 
-📊 Resultados
-MétodoTiempoMejoraSpeedupOriginal40.20s-1xOptimizado0.10s99.8%406xCriba<0.0001s~100%∞
-¡La optimización logró que el código se ejecute 406 veces más rápido!
+## 📊 Resultados
+
+| Método | Tiempo | Mejora | Speedup |
+|--------|--------|--------|---------|
+| Original | 40.20s | - | 1x |
+| Optimizado | 0.10s | 99.8% | 406x |
+| Criba | <0.0001s | ~100% | ∞ |
+
+**¡La optimización logró que el código se ejecute 406 veces más rápido!**
+
 ## 🛠️ Tecnologías Utilizadas
 
 - Python 3.x
@@ -114,6 +121,7 @@ Las contribuciones son bienvenidas. Por favor:
 3. Commit tus cambios (`git commit -m 'Add: AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
+
 
 ## 📝 Licencia
 
